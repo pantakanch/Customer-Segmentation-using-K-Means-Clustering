@@ -26,3 +26,6 @@ Dataset on Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segment
    - The clustered data points are visualized in a scatter plot.
    - Each cluster is represented by a distinct color, making it easy to discern different customer groups.
    - The plot illustrates the relationship between Annual Income and Spending Score for each customer segment.
+     
+     ![image](https://github.com/pantakanch/Customer-Segmentation-using-K-Means-Clustering/assets/113978334/2a9ecf1c-d43f-4d13-b133-14d53f896e6c)
+
